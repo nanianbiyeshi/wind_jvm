@@ -9,7 +9,7 @@ interface Haha{
 class Test1 extends Person implements Haha{
 	
 	public void hh() {
-		i = 4;
+		i = 5;
 		super.i = 2;
 		System.out.println(Person.i);
 	}
